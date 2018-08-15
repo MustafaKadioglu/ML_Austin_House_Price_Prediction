@@ -1,1 +1,1 @@
-# Austin_House_Price
+It is a supervised Machine Learning Project. In this project, by applying the ML models I tried to get a certain level of prediction accuracy of the house prices in Austin. I got %91 accuracy at the end.
